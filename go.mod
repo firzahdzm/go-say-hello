@@ -1,3 +1,3 @@
-module github.com/firzahdzm/go-say-hello
+module github.com/firzahdzm/go-say-hello/v2
 
 go 1.21.0
